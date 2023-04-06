@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  color: black;
+  font-family: roboto;
+}
+.btn {
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+head {
+  color: white;
+}
+
+.cart {
+  background-color: black;
+}
